@@ -1,0 +1,80 @@
+{
+    "object": "database",
+    "id": "10dcef0d-da3e-806c-97bb-ca362447a5fb",
+    "cover": null,
+    "icon": null,
+    "created_time": "2024-09-26T04:43:00.000Z",
+    "created_by": {
+        "object": "user",
+        "id": "7910ad65-14bb-4395-a4b9-e434fe0b600a"
+    },
+    "last_edited_by": {
+        "object": "user",
+        "id": "7910ad65-14bb-4395-a4b9-e434fe0b600a"
+    },
+    "last_edited_time": "2024-09-30T11:13:00.000Z",
+    "title": [
+        {
+            "type": "text",
+            "text": {
+                "content": "GPT_log",
+                "link": null
+            },
+            "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+            },
+            "plain_text": "GPT_log",
+            "href": null
+        }
+    ],
+    "description": [],
+    "is_inline": true,
+    "properties": {
+        "Checkbox": {
+            "id": "Gds%3C",
+            "name": "Checkbox",
+            "type": "checkbox",
+            "checkbox": {}
+        },
+        "Topic": {
+            "id": "NAzP",
+            "name": "Topic",
+            "type": "rich_text",
+            "rich_text": {}
+        },
+        "Tags": {
+            "id": "ZN%5Cu",
+            "name": "Tags",
+            "type": "multi_select",
+            "multi_select": {
+                "options": []
+            }
+        },
+        "Date": {
+            "id": "wYQY",
+            "name": "Date",
+            "type": "date",
+            "date": {}
+        },
+        "Title": {
+            "id": "title",
+            "name": "Title",
+            "type": "title",
+            "title": {}
+        }
+    },
+    "parent": {
+        "type": "page_id",
+        "page_id": "10dcef0d-da3e-80fe-b4f0-e7c07aa39e1f"
+    },
+    "url": "https://www.notion.so/10dcef0dda3e806c97bbca362447a5fb",
+    "public_url": null,
+    "archived": false,
+    "in_trash": false,
+    "request_id": "54814a56-3e19-4928-a7ae-4739a9ad121d"
+}
